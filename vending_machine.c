@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #define products 3
-    struct prod {      // struc e globalen poneje go polzvam v funcite za sortirane
+    struct prod {      
         //vid 1- napitka vid 2-ne-napitka
         char name [36];
         int type;
